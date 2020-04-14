@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Kai Kang 
+description: Kai Kang is a postdoc in Kellis lab at MIT. 
+keywords: probability, statistics, Bayesian modeling, computational biology. 
 ---
 
 <div class="navbar">
