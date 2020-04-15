@@ -3,7 +3,7 @@ layout: page
 title: publications
 description: Karl Broman's publications
 ---
-
+<!
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -1726,3 +1726,4 @@ experimental crosses.  PhD dissertation, Department of Statistics,
 University of California, Berkeley
 [![Abstract](icons16/pubmed-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis_abstract.html)
 [![pdf (653k)](icons16/pdf-icon.png)](https://www.biostat.wisc.edu/~kbroman/publications/thesis.pdf)
+>

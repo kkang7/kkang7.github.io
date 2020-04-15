@@ -4,17 +4,18 @@ title: Kai Kang
 description: Kai Kang is a postdoc in Kellis lab at MIT. 
 keywords: Bayesian modeling, statistical genetics, probability
 ---
-
+<!
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
+          <li><a href="https://github.com/kkang7">github</a></li>
           <li><a href="https://kbroman.org/blog">blog</a></li>
           <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
       </ul>
   </div>
 </div>
+>
 
 <table class="wide">
 <tr>
